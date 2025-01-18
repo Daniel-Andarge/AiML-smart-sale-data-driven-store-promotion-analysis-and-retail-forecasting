@@ -32,7 +32,7 @@ This project enables Rossmann Pharmaceuticals to transition from intuition-based
 - **Programming Language**: Python
   - Libraries: Pandas, NumPy, Scikit-learn
 - **Machine Learning**: Regression models, time series forecasting models, ensemble methods
-- **Tools**: Jupyter Notebooks, Git/GitHub
+- **Tools**: Jupyter Notebooks, CI/CD(GitHub Actions)
 
 ## Getting Started
 
