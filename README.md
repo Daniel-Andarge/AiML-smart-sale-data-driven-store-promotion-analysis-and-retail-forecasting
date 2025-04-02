@@ -1,4 +1,26 @@
-# Smart-Sale: Data-Driven Store Promotion Analysis and Retail Forecasting Solution 
+# Smart-Sale: Data-Driven Store Promotion Analysis and Retail Forecasting Solution
+
+
+## Table of Contents
+
+1. [Project Description](#project-description)
+2. [Key Components](#key-components)
+   - [Data Integration and Preprocessing](#1-data-integration-and-preprocessing)
+   - [Exploratory Data Analysis](#2-exploratory-data-analysis)
+   - [Feature Engineering](#3-feature-engineering)
+   - [Sales Forecasting Model](#4-sales-forecasting-model)
+   - [Promotion Impact Analysis](#5-promotion-impact-analysis)
+3. [Outcome](#outcome)
+4. [Technologies/Tools Used](#technologies/tools-used)
+5. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+6. [Usage](#usage)
+7. [Scripts and Notebooks](#scripts-and-notebooks)
+8. [Project Report](#project-report)
+9. [Dependencies](#dependencies)
+10. [License](#license)
+
 
 ## Project Description
 
