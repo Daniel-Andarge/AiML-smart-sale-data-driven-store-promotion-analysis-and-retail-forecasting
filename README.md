@@ -120,6 +120,10 @@ The required Python packages for this project are listed in the `requirements.tx
 pip install -r requirements.txt
 ```
 
+## Project Report
+
+For a comprehensive overview of the project, please refer to the project report: [Project Report PDF](https://drive.google.com/file/d/1mvmU5Zjwo9nOu0kv4exXK7BdDqEOorKW/view).
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
